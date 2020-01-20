@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-20T22:01:54Z" name="Default suite" finished-at="2020-01-20T22:01:56Z" duration-ms="2115">
+    <groups>
+    </groups>
+    <test started-at="2020-01-20T22:01:54Z" name="Default test" finished-at="2020-01-20T22:01:56Z" duration-ms="2115">
+      <class name="Api_test.PostRequest_demo">
+        <test-method is-config="true" signature="postData()[pri:0, instance:Api_test.PostRequest_demo@762ef0ea]" started-at="2020-01-20T22:01:54Z" name="postData" finished-at="2020-01-20T22:01:55Z" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+        <test-method signature="postTest()[pri:0, instance:Api_test.PostRequest_demo@762ef0ea]" started-at="2020-01-20T22:01:55Z" name="postTest" finished-at="2020-01-20T22:01:56Z" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- Api_test.PostRequest_demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
