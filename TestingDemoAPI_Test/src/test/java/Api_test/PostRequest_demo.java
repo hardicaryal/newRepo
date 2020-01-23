@@ -23,7 +23,7 @@ public class PostRequest_demo {
 	public void postData()
 	{
 		map.put("FirstName", "Hardic");
-		map.put("LastName", "Hardic");
+		map.put("LastName", "Aryal");
 		map.put("UserName", "Hardic");
 		map.put("Password", "Hardic");
 		map.put("Email", "Hardic");
